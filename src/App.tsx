@@ -8,6 +8,7 @@ import SingleProduct from "./pages/Products/child/SingleProduct";
 import Wishlist from "./pages/Wishlist/Wishlist";
 import About from "./pages/About/About";
 const App = () => {
+  
   return (
     <BrowserRouter>
       <Routes>
